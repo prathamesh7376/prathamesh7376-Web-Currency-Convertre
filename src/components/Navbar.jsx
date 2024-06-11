@@ -11,7 +11,7 @@ function Navbar() {
               alt="Logo"
               className="h-16 w-24 mr-2 rounded-md"
             />
-            CompanyName
+            Web Currency Converter
           </a>
         </div>
         <div>
