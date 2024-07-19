@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../assets/Prathamesh_Logo.png";
 
 function Navbar() {
   return (
@@ -7,7 +8,7 @@ function Navbar() {
         <div className="text-white text-xl font-bold">
           <a href="/" className="flex items-center">
             <img
-              src="src/assets/Prathamesh_Logo.png" // Replace with your logo URL
+              src={logo} // Replace with your logo URL
               alt="Logo"
               className="h-16 w-24 mr-2 rounded-md"
             />
